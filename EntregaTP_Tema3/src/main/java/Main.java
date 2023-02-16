@@ -3,7 +3,7 @@ public class Main {
         //Ejercicio1.riesgoDeHielo();
         //Ejercicio2.riesgoDeHielo();
         //Ejercicio3.mesEnTexto();
-        Ejercicio4.cocinar();
+        //Ejercicio4.cocinar();
         Ejercicio5.calcularNomina();
     }
 
